@@ -1,0 +1,224 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Gabriel_Ortega_Jogo_Memoria
+</name>
+</assembly>
+<members>
+<member name="P:Gabriel_Ortega_Jogo_Memoria.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Gabriel_Ortega_Jogo_Memoria.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Gabriel_Ortega_Jogo_Memoria.My.Resources.Resources.Amy">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_Jogo_Memoria.My.Resources.Resources.Andy">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_Jogo_Memoria.My.Resources.Resources.Athena">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_Jogo_Memoria.My.Resources.Resources.Beniramu">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_Jogo_Memoria.My.Resources.Resources.Big">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_Jogo_Memoria.My.Resources.Resources.Billy">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_Jogo_Memoria.My.Resources.Resources.bowser">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_Jogo_Memoria.My.Resources.Resources.CAPA_KOF">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_Jogo_Memoria.My.Resources.Resources.capa_sonicc">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_Jogo_Memoria.My.Resources.Resources.Charmy_Bee">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_Jogo_Memoria.My.Resources.Resources.Cream">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_Jogo_Memoria.My.Resources.Resources.Eggman">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_Jogo_Memoria.My.Resources.Resources.Iori">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_Jogo_Memoria.My.Resources.Resources.Joe">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_Jogo_Memoria.My.Resources.Resources.K">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_Jogo_Memoria.My.Resources.Resources.King">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_Jogo_Memoria.My.Resources.Resources.Knuckles">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_Jogo_Memoria.My.Resources.Resources.Kula">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_Jogo_Memoria.My.Resources.Resources.Kusanagi">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_Jogo_Memoria.My.Resources.Resources.Leona">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_Jogo_Memoria.My.Resources.Resources.logo_kof">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_Jogo_Memoria.My.Resources.Resources.logo_mario">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_Jogo_Memoria.My.Resources.Resources.Luigi">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_Jogo_Memoria.My.Resources.Resources.Mai">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_Jogo_Memoria.My.Resources.Resources.mario">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_Jogo_Memoria.My.Resources.Resources.Mature">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_Jogo_Memoria.My.Resources.Resources.Menuuuuu">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_Jogo_Memoria.My.Resources.Resources.Nintendo_logoluigimario">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_Jogo_Memoria.My.Resources.Resources.Peach_Princess">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_Jogo_Memoria.My.Resources.Resources.Robert">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_Jogo_Memoria.My.Resources.Resources.Rouge">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_Jogo_Memoria.My.Resources.Resources.Ryo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_Jogo_Memoria.My.Resources.Resources.segasonic">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_Jogo_Memoria.My.Resources.Resources.Shadow">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_Jogo_Memoria.My.Resources.Resources.Silver">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_Jogo_Memoria.My.Resources.Resources.Sonic">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_Jogo_Memoria.My.Resources.Resources.sonic_wallpaper">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_Jogo_Memoria.My.Resources.Resources.street_fighter">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_Jogo_Memoria.My.Resources.Resources.SuperMario256">
+	<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member><member name="P:Gabriel_Ortega_Jogo_Memoria.My.Resources.Resources.Tails">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_Jogo_Memoria.My.Resources.Resources.Terry">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_Jogo_Memoria.My.Resources.Resources.Toad">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_Jogo_Memoria.My.Resources.Resources.Vector">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_Jogo_Memoria.My.Resources.Resources.Vice">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_Jogo_Memoria.My.Resources.Resources.wallpaper">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_Jogo_Memoria.My.Resources.Resources.WALLPAPER_MARIO">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_Jogo_Memoria.My.Resources.Resources.Waluigi">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_Jogo_Memoria.My.Resources.Resources.Wario">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_Jogo_Memoria.My.Resources.Resources.yoshi">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_Jogo_Memoria.My.Resources.Resources.Yuri">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Gabriel_Ortega_Jogo_Memoria.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

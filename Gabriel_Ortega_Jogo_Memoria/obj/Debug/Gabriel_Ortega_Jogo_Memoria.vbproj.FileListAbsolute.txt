@@ -1,0 +1,13 @@
+c:\users\ortega\documents\visual studio 2012\Projects\Gabriel_Ortega_Jogo_Memoria\Gabriel_Ortega_Jogo_Memoria\bin\Debug\Gabriel_Ortega_Jogo_Memoria.exe.config
+C:\Users\Ortega\documents\visual studio 2012\Projects\Gabriel_Ortega_Jogo_Memoria\Gabriel_Ortega_Jogo_Memoria\bin\Debug\Gabriel_Ortega_Jogo_Memoria.exe
+C:\Users\Ortega\documents\visual studio 2012\Projects\Gabriel_Ortega_Jogo_Memoria\Gabriel_Ortega_Jogo_Memoria\bin\Debug\Gabriel_Ortega_Jogo_Memoria.pdb
+C:\Users\Ortega\documents\visual studio 2012\Projects\Gabriel_Ortega_Jogo_Memoria\Gabriel_Ortega_Jogo_Memoria\bin\Debug\Gabriel_Ortega_Jogo_Memoria.xml
+C:\Users\Ortega\documents\visual studio 2012\Projects\Gabriel_Ortega_Jogo_Memoria\Gabriel_Ortega_Jogo_Memoria\obj\Debug\Gabriel_Ortega_Jogo_Memoria.Form1.resources
+C:\Users\Ortega\documents\visual studio 2012\Projects\Gabriel_Ortega_Jogo_Memoria\Gabriel_Ortega_Jogo_Memoria\obj\Debug\Gabriel_Ortega_Jogo_Memoria.Form2.resources
+C:\Users\Ortega\documents\visual studio 2012\Projects\Gabriel_Ortega_Jogo_Memoria\Gabriel_Ortega_Jogo_Memoria\obj\Debug\Gabriel_Ortega_Jogo_Memoria.Resources.resources
+C:\Users\Ortega\documents\visual studio 2012\Projects\Gabriel_Ortega_Jogo_Memoria\Gabriel_Ortega_Jogo_Memoria\obj\Debug\Gabriel_Ortega_Jogo_Memoria.vbproj.GenerateResource.Cache
+C:\Users\Ortega\documents\visual studio 2012\Projects\Gabriel_Ortega_Jogo_Memoria\Gabriel_Ortega_Jogo_Memoria\obj\Debug\Gabriel_Ortega_Jogo_Memoria.exe
+C:\Users\Ortega\documents\visual studio 2012\Projects\Gabriel_Ortega_Jogo_Memoria\Gabriel_Ortega_Jogo_Memoria\obj\Debug\Gabriel_Ortega_Jogo_Memoria.xml
+C:\Users\Ortega\documents\visual studio 2012\Projects\Gabriel_Ortega_Jogo_Memoria\Gabriel_Ortega_Jogo_Memoria\obj\Debug\Gabriel_Ortega_Jogo_Memoria.pdb
+C:\Users\Ortega\Documents\Visual Studio 2012\Projects\Gabriel_Ortega_Jogo_Memoria\Gabriel_Ortega_Jogo_Memoria\obj\Debug\Gabriel_Ortega_Jogo_Memoria.Form3.resources
+C:\Users\Ortega\documents\visual studio 2012\Projects\Gabriel_Ortega_Jogo_Memoria\Gabriel_Ortega_Jogo_Memoria\obj\Debug\Gabriel_Ortega_Jogo_Memoria.Form4.resources
