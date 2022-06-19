@@ -26,3 +26,8 @@
   <br>
 <img src="/img-readme/preview-kof.png" width=500>
 
+  
+  <p>
+  <br>
+&#169; Gabriel Ortega. All rights reserved
+  </p>
